@@ -1,0 +1,21 @@
+{
+	"aws": {
+		"accessKey": "",
+		"secretKey": "",
+		"bucket": {
+			"name": ""
+		}
+	},
+	"servers": [
+		{
+			"db_name": "",
+			"db_host": "",
+			"db_user": "",
+			"db_pass": "",
+			"db_port": "",
+			"db_list": [
+				""
+			]
+		}
+	]
+}

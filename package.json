@@ -1,0 +1,21 @@
+{
+	"name": "database-backup-scheduler",
+	"version": "0.1.0",
+	"description": "Backup Database Scheduler",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index"
+	},
+	"dependencies": {
+		"node-schedule": "0.2.9",
+		"s3-stream-upload": "2.0.0",
+		"bluebird": "2.9.30",
+		"moment": "2.10.3",
+		"aws-sdk": "2.1.34",
+		"async": "1.1.0",
+		"colors": "1.1.0"
+	},
+	"author": "Samuel",
+	"license": "MIT"
+}
